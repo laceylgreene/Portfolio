@@ -2,9 +2,21 @@
 }
 
 h1{text-align: center;
+  color: #2E0854;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
 h2{text-align: center;
+  color: #333;
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase
 }
 
 h3{text-align: center;
