@@ -16,8 +16,6 @@ This portfolio contains an introduction to my journey to eventually deciding to 
 * _easy-to-understand_
 * _format_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
 ## Known Bugs
 
 The image of "me" isn't currently loading when you open the html file in the browser
