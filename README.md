@@ -10,11 +10,10 @@ This portfolio contains an introduction to my journey to eventually deciding to 
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Clone this repository
+* Open a simple HTTP server in the top level of the cloned directory.
+* python -m SimpleHTTPServer
+* Then open your web browser of choice to localhost:8000
 
 ## Known Bugs
 
