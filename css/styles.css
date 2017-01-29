@@ -27,7 +27,8 @@ h4{text-align: center;
 
 h5{text-align: left;}
 
-img{float: left;}
+img{float: left;
+}
 
 .panel panel-default {
   margin: 12px;
