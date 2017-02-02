@@ -17,7 +17,7 @@ This portfolio contains an introduction to my journey to eventually deciding to 
 
 ## Known Bugs
 
-The image of "me" isn't currently loading when you open the html file in the browser
+The image of "me.jpg" isn't spaced properly in proximity to text.
 
 ## Link to Github
 https://github.com/laceylgreene
