@@ -17,7 +17,7 @@ This portfolio contains an introduction to my journey to eventually deciding to 
 
 ## Known Bugs
 
-The image of "me.jpg" isn't spaced properly in proximity to text.
+The background-color of what was to be the entire web page is confined to the contained typing.
 
 ## Link to Github
 https://github.com/laceylgreene
